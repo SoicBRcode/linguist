@@ -89,6 +89,14 @@ AL:
   tm_scope: source.al
   ace_mode: text
   language_id: 658971832
+AMEPL:
+  type: programming
+  color: "#FFA9FF"
+  extensions:
+  - ".amepl"
+  tm_scope: source.amepl
+  ace_mode: text
+  language_id: 6577698076
 AMPL:
   type: programming
   color: "#E6EFBB"
