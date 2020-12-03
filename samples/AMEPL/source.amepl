@@ -1,0 +1,4 @@
+NEW_LABEL main_loop
+GET_INPUT
+PRINT CHAR STACK_POP
+GOTO main_loop
